@@ -27,7 +27,7 @@ JavaFX 17: https://gluonhq.com/products/javafx/
 
 If you use GNU/Linux install the latest versions of JDK 17 and OpenJFX 17 from your distros package repositories.
 
-(Windows Only) Add Java to path environment variable: https://www.javatpoint.com/how-to-set-path-in-java (Use second, permanent method)
+(Windows Only) Add Java to path environment variable: https://www.tpointtech.com/how-to-set-path-in-java (Use second, permanent method)
 
 IDE with Java support. I use Intellij Idea: https://www.jetbrains.com/idea/download/ (If you are using GNU/Linux your preferred IDE should be in your distros package repositories, if not see if they have an appimage or build and install it from source or choose an IDE available in your distros package repositories)
 
